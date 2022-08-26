@@ -130,4 +130,6 @@ dmypy.json
 
 databases/
 
+secret_kys.json/
+
 main_project_folder/local_settings/
