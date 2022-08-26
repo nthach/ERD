@@ -130,4 +130,4 @@ dmypy.json
 
 databases/
 
-main_project_folder/local_settings
+main_project_folder/local_settings/
