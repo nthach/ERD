@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 databases/
+
+main_project_folder/local_settings
